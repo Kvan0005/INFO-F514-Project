@@ -37,7 +37,7 @@ To run the implementation locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Kvan0005/INFO-F514-Project.git](https://github.com/Kvan0005/INFO-F514-Project.git)
+    git clone https://github.com/Kvan0005/INFO-F514-Project
     cd INFO-F514-Project
     ```
 
