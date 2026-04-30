@@ -56,9 +56,9 @@ To run the implementation locally, follow these steps:
     ```
 
 ## Authors
-**Group U (ULB - INFOF514 - 2026)**[cite: 1]
-*   Erwan Reynders[cite: 1]
-*   Theo Deville[cite: 1]
-*   Tristan Bricusse[cite: 1]
-*   Kevin Vandervaeren[cite: 1]
-*   Nkweya Tofeun Constance[cite: 1]
+**Group U (ULB - INFOF514 - 2026)**
+*   Erwan Reynders
+*   Theo Deville
+*   Tristan Bricusse
+*   Kevin Vandervaeren
+*   Nkweya Tofeun Constance
